@@ -7,7 +7,6 @@ body {
   width: 100vw;
   min-height: 100vh;
 }
-
 #root {
   width: 100vw;
   min-height: 100vh;
@@ -16,7 +15,6 @@ body {
   align-items: center;
   flex-direction: column;
 }
-
 main {
   display: flex;
   flex-direction: column;
@@ -24,7 +22,6 @@ main {
   align-items: center;
   min-height: 70vh;
 }
-
 .btn {
   width: 100%;
   padding: 10px;
